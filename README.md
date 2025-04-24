@@ -12,3 +12,13 @@ Submission.csv
 
 # Source code 
 NPL.ipynb
+
+
+├── data/                  # Dataset files
+│   ├── train.csv          # Training data
+│   ├── test.csv           # Test data
+│   └── sample_submission.csv  # Sample submission format
+├── submission.csv         # Final submission
+├── Kaggle_Leaderboard.png  # Leaderboard at Kaggle
+├── NPL.ipynb              # Source code
+├── README.md              # Project documentation
