@@ -13,7 +13,8 @@ Submission.csv
 # Source code 
 NPL.ipynb
 
-
+## Repository Structure
+```
 ├── data/                  # Dataset files
 │   ├── train.csv          # Training data
 │   ├── test.csv           # Test data
@@ -22,3 +23,4 @@ NPL.ipynb
 ├── Kaggle_Leaderboard.png  # Leaderboard at Kaggle
 ├── NPL.ipynb              # Source code
 ├── README.md              # Project documentation
+```
